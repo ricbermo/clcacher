@@ -1,24 +1,24 @@
 {
-  "name": "react-native-clcasher",
-  "version": "1.1.0",
-  "description": "clcasher",
+  "name": "react-native-clcasher-fork",
+  "version": "0.0.1",
+  "description": "A clcasher fork ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/clcorpdevelopment/react-native-casher.git"
+    "url": "git@github.com:ricbermo/clcacher.git"
   },
   "keywords": [
     "Cacher"
   ],
   "author": "Clcorp",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/clcorpdevelopment/react-native-casher#readme",
+  "homepage": "https://github.com/ricbermo/clcacher",
   "dependencies": {
     "mock-async-storage": "^1.0.3"
   },
   "peerDependencies": {
-    "@react-native-community/async-storage": "^1.11.0"
+    "@react-native-async-storage/async-storage": "^1.15.4"
   }
 }
